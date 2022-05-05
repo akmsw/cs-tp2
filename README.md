@@ -1,9 +1,5 @@
 # Buffer overflow
 
-## Group members
-- Luna, Lihué Leandro.
-- Bonino, Francisco Ignacio.
-
 ## Brief
 El siguiente es un trabajo práctico que consta de explorar las posibilidades de exploits en un programa escrito en C, aplicando la técnica de buffer overflow.
 
